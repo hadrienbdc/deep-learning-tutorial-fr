@@ -1,2 +1,3 @@
-# deep-learning-tuto-fr
-Deep learning tutorial in French.
+# Deep learning tutorial in French.
+
+Basic tutorial on deep learning in French through Jupyter notebook.
