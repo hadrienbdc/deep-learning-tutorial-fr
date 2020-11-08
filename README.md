@@ -4,8 +4,8 @@ Basic exercises on deep learning in French through Jupyter notebooks.
 
 ### Excercises
 
-* Descente de Gradient
+* Linear regression with gradient descent
 
-* Classification de texte
+* Text classifaction
 
-* Classification d'images
+* Image classification
