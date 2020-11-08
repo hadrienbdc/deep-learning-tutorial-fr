@@ -2,7 +2,7 @@
 
 Basic exercises on deep learning in French through Jupyter notebooks.
 
-### Excercices
+### Excercises
 
 * Descente de Gradient
 
